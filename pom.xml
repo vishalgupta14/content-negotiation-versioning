@@ -5,7 +5,7 @@
     <groupId>com.spring.rest</groupId>
     <artifactId>content-negotiation-versioning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-version-control-api</name>
+    <name>content-negotiation-versioning</name>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
